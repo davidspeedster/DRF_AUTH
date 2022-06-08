@@ -87,8 +87,6 @@ pycparser==2.20
 pydot==1.2.3
 PyJWT==2.4.0
 pymongo==3.12.3
-PyOpenGL @ file:///C:/Users/David%20Speedster.000/Downloads/PyOpenGL-3.1.5-cp37-cp37m-win_amd64.whl
-PyOpenGL-accelerate @ file:///C:/Users/David%20Speedster.000/Downloads/PyOpenGL_accelerate-3.1.5-cp37-cp37m-win_amd64.whl
 pyparsing==2.1.10
 PyPDF2==1.26.0
 pyserial==3.1.1
